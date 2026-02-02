@@ -1,0 +1,8 @@
+{
+  "name": "Locolock Technologies",
+  "description": "A modern, high-conversion IT services startup website featuring a vibrant UI, dynamic sections, and a built-in AI assistant.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
